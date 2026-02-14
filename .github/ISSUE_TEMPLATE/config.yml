@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Project README
-    url: https://github.com/cline/kanbanana/blob/main/README.md
-    about: Review setup and usage details before opening an issue.
+  - name: Community Discord
+    url: https://discord.gg/kanbanana
+    about: Ask questions and chat with the community.
