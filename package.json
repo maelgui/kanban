@@ -63,6 +63,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "prepare": "husky",
+    "postinstall": "node scripts/patch-ai-sdk.cjs",
     "prepublishOnly": "npm run build && npm run check"
   },
   "license": "Apache-2.0",
